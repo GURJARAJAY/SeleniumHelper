@@ -82,11 +82,3 @@ def get_version_macos(file_path):
         return "Error: Invalid Info.plist file."
     except Exception as e:
         return f"Error: {e}"
-
-
-
-
-if __name__ == "__main__":
-    # file_path = input("Enter the path to the file or application: ")
-    version = get_file_version("/Applications/Google Chrome.app")
-    print(f"Version: {version}")
