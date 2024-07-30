@@ -186,5 +186,3 @@ with SeleniumApi() as api:
 ```
 
 ---
-
-Feel free to customize the README based on any additional specifics or configurations relevant to your project.
