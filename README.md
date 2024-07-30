@@ -1,4 +1,4 @@
-'s a sample README file for your `SeleniumApi` class. This README provides an overview of the class, its methods, and usage instructions.
+This README provides an overview of the class, its methods, and usage instructions.
 ---
 
 # SeleniumApi README
